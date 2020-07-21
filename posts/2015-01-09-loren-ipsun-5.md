@@ -1,6 +1,6 @@
 ---
 date: 2012-01-09 05:54:23
-title: Loren Loren Ipsun
+title: Eita Lere 5
 description: And I'm not sure about the universe.
 category: JS
 background: "#7AAB13"

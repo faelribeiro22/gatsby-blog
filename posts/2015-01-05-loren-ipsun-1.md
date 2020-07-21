@@ -1,12 +1,12 @@
 ---
-date: 2015-01-07 05:54:23
-title: Loren Loren Ipsun
+date: 2015-01-05 05:54:23
+title: Eita lere 1
 description: And I'm not sure about the universe.
 category: JS
 background: "#7AAB13"
 ---
 
-# Lorem ipsum 7
+# Lorem ipsum 5
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:
 
